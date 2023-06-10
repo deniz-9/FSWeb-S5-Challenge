@@ -51,10 +51,6 @@ const tabEkleyici = (secici) => {
     .catch((error) => {
       console.log("Error" + error);
     });
-
-
-
-
 }
 
 export { Tablar, tabEkleyici }

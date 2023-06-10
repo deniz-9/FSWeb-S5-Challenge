@@ -31,14 +31,7 @@ const Header = (baslik, tarih, yazi) => {
 
   return headerDivEl;
 
-  
-
 }
-
-
-
-
-
 
 function headerEkleyici(secici) {
   // GÖREV 2
@@ -55,7 +48,5 @@ function headerEkleyici(secici) {
     Header("Teknoloji Zamanı ", "10 Haziran 2023", "Güncel Teknoloji Haberleri")
   );
 };
-
-
 
 export { Header, headerEkleyici }

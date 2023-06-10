@@ -51,8 +51,6 @@ const Card = (makale) => {
 
   return cardDivEl;
 
-
-
 }
 
 const cardEkleyici = (secici) => {
@@ -75,8 +73,7 @@ const cardEkleyici = (secici) => {
       }
     }
   });
-
-
+  
 };
 
 
